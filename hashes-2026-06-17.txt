@@ -1,0 +1,10 @@
+SHA-256 Hash Anchoring — June 17, 2026
+
+AP-012_The_Structural_Illusion.pdf
+7db4aa5a2c8d340a8f653243ea3e9db0a3b8dc517a621728ec8c58dedd35d02d
+
+AP-013_Rarity_099.pdf
+378d74ebb480be7d32873725a023ba3776c2e8ff8e3d954630d58c0ea4e7682f
+
+AIB-2026-012-DEMO.pdf
+bd6f1520d58e051620966eb11a540b819b2e54fcac887b5a566cbac44cf2cbf4
